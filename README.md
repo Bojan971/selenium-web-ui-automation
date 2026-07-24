@@ -188,6 +188,22 @@ Possible future enhancements include:
 
 ---
 
+## Repository Highlights
+
+✔ Clean and maintainable Selenium automation code
+
+✔ Professional Git repository structure
+
+✔ Comprehensive project documentation
+
+✔ Automated UI validation using PyTest
+
+✔ Git version control
+
+✔ Ready for portfolio presentation
+
+---
+
 ## Author
 
 **Bojan Djordjevic**

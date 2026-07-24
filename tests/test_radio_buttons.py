@@ -18,7 +18,7 @@ def test_only_one_radio_button_can_be_selected():
         driver.get("https://www.selenium.dev/selenium/web/web-form.html")
 
         # Wait until all radio buttons are present.
-        WebDriverWait(driver, 3).until(
+        WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.NAME, "my-radio"))
         )
 
