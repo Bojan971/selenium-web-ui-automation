@@ -210,8 +210,8 @@ Possible future enhancements include:
 
 Software QA Engineer
 
-LinkedIn:
-https://www.linkedin.com/in/bojan-djordjevic-5403bb67/
+📧 Email: bojandjordjevic971@gmail.com
 
-GitHub:
-https://github.com/Bojan971
+💼 LinkedIn: [linkedin.com/in/bojan-djordjevic-5403bb67](https://www.linkedin.com/in/bojan-djordjevic-5403bb67/)
+
+💻 GitHub: [github.com/Bojan971](https://github.com/Bojan971)
