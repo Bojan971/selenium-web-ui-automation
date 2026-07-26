@@ -1,18 +1,25 @@
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
+*.pyo
 
-# Pytest cache
-.pytest_cache/
-
-# Virtual environments
-.venv/
+# Virtual Environment
 venv/
+.venv/
 env/
 
 # VS Code
 .vscode/
 
-# Operating system files
+# IntelliJ IDEA
+.idea/
+
+# PyCharm
+*.iml
+
+# Logs
+*.log
+
+# OS Files
 .DS_Store
 Thumbs.db
