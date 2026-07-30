@@ -212,6 +212,6 @@ Software QA Engineer
 
 📧 Email: bojandjordjevic971@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/bojan-djordjevic-5403bb67](https://www.linkedin.com/in/bojan-djordjevic-5403bb67/)
+💼 LinkedIn: [linkedin.com/in/bojan-djordjevic-qa](https://www.linkedin.com/in/bojan-djordjevic-qa/)
 
 💻 GitHub: [github.com/Bojan971](https://github.com/Bojan971)
